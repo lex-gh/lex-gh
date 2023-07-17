@@ -1,0 +1,53 @@
+.section {
+  // .section__wrap
+  &__wrap {
+  }
+  // .section__content
+  &__content {
+  }
+}
+.experience {
+  // .experience__wrap
+  &__wrap {
+  }
+  // .experience__body
+  &__body {
+  }
+}
+.job {
+  // .job__head
+  &__head {
+  }
+  // .job__title
+  &__title {
+  }
+  // .job__subtitle
+  &__subtitle {
+  }
+  // .job__date
+  &__date {
+  }
+  // .job__body
+  &__body {
+  }
+  // .job__button
+  &__button {
+    padding: 0;
+    color: $blue;
+    border: none;
+    background: transparent;
+    position: relative;
+    cursor: pointer;
+    text-decoration: none;
+    &:hover {
+      text-decoration: underline;
+    }
+    &::after {
+      content: "→";
+      color: $blue;
+      position: absolute;
+      top: -13px;
+      font-size: 24px;
+    }
+  }
+}

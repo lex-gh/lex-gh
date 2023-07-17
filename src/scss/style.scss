@@ -1,0 +1,16 @@
+@import "normalize";
+@import "variables";
+@import "global";
+@import "fonts";
+@import "base";
+
+// Sections
+@import "./sections/header";
+@import "./sections/mobile-menu";
+@import "./sections/hero";
+@import "./sections/skills";
+@import "./sections/experience";
+@import "./sections/education";
+@import "./sections/portfolio";
+@import "./sections/contact";
+@import "./sections/footer";

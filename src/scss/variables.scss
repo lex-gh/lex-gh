@@ -1,0 +1,24 @@
+:root {
+  --bg-color: #fff;
+  --text-primary: #2a2a30;
+  --text-secondary: #515151;
+  --text-hover: #007bfb;
+}
+/* #12121c */
+// Background
+
+$bgColor: var(--bg-color);
+
+// colors
+$blue: #007bfb;
+$dark: var(--font-dark);
+$gray-light: #e3e3e3;
+$gray: #6f6f6f;
+// Text
+
+$Roboto: "Roboto", sans-serif;
+$Montserrat: "Montserrat", sans-serif;
+
+$primary: var(--text-primary);
+$secondary: var(--text-secondary);
+$hover: var(--text-hover);

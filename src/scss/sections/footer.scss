@@ -1,0 +1,37 @@
+.footer {
+  padding: 20px 0;
+  background: $gray-light;
+  // .footer__wrap
+  &__wrap {
+  }
+  //   footer__content
+  &__content {
+    text-align: center;
+    font-family: $Montserrat;
+    font-weight: 500;
+    color: $primary;
+    user-select: none;
+  }
+}
+
+.footer {
+  padding: 20px 0;
+  // .footer__wrap
+  &__wrap {
+  }
+  // .footer__content
+  &__content {
+    display: flex;
+  }
+  // .footer__col
+  &__col {
+    flex: 1 1;
+    text-align: left;
+    font-family: $Montserrat;
+    font-weight: 500;
+    color: $primary;
+    &:last-child {
+      text-align: right;
+    }
+  }
+}
