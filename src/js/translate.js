@@ -8,7 +8,7 @@ export const i18n = {
     contact: "Связаться со мной",
     fullname: "Алексей Бражников",
     about:
-      "Привет, я младший фронтенд-разработчик. Я хочу стать частью дружной и профессиональной команды, в которой я смогу развивать свои навыки разработки. Я коммуникабельный и ответственный человек, стремящийся к профессиональному росту и совершенствованию своих навыков.",
+      "Привет, я младший фронтенд-разработчик. Я хочу стать частью дружной и профессиональной команды, в которой я смогу применить свои знания и навыки для создания удивительных пользовательских интерфейсов и развития своей карьеры в IT-индустрии. Я коммуникабельный и ответственный человек, стремящийся к профессиональному росту и совершенствованию своих навыков.",
     download: "скачать резюме",
     phone: "Телефон",
     email: "Почта",
@@ -65,7 +65,7 @@ export const i18n = {
     contact: "contact me",
     fullname: "Alexey Brazhnikov",
     about:
-      "Hi, I am a junior frontend developer. I want to be part of a friendly and professional team where I can develop my development skills. I am a communicative and responsible person, eager to grow professionally and improve my skills.",
+      "Hi, I'm a junior front-end developer. I want to be part of a friendly and professional team where I can apply my knowledge and skills to create my amazing interfaces and advance my careers in the IT industry. I am a sociable and responsible person, striving for professional growth and improvement of my skills.",
     download: "download cv",
     phone: "phone",
     email: "email",
