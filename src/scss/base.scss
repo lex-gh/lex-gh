@@ -48,6 +48,9 @@ body {
   &__aside {
     width: 33.33%;
     min-width: 33.33%;
+    align-self: baseline;
+    position: sticky;
+    top: 85px;
     @include _lg {
       width: 100%;
     }
