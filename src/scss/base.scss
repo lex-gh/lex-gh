@@ -53,6 +53,8 @@ body {
     top: 85px;
     @include _lg {
       width: 100%;
+      position: static;
+      top: 0;
     }
   }
   // .section__title
