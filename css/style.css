@@ -380,6 +380,8 @@ body {
 @media (max-width: 992px) {
   .section__aside {
     width: 100%;
+    position: static;
+    top: 0;
   }
 }
 .section__title {
